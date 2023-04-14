@@ -34,7 +34,7 @@ I am a IOS Engineer from Kazakhstan.
 
 - :zap: In my free time, I learn kotlin and trying develop using KMM.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-agumirov-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url](https://www.linkedin.com/in/askhat-gumirov-954654272)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-agumirov-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/askhat-gumirov-954654272](https://www.linkedin.com/in/askhat-gumirov-954654272))
 
 ---
 
